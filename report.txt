@@ -1,0 +1,3 @@
+Image  BMP      Data
+400kb  3.1Mb    336.8kb
+4.6Mb  13.2Mb   1.7Mb
